@@ -4,7 +4,7 @@
   "description": "",
   "main": "home.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/package-tester.git"
+    "registry": "https://npm.pkg.github.com/@htclorina"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
