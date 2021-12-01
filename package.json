@@ -1,0 +1,22 @@
+{
+  "name": "package-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@htclorina"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htclorina/package-tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htclorina/package-tester/issues"
+  },
+  "homepage": "https://github.com/htclorina/package-tester#readme"
+}
