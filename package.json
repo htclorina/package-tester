@@ -1,5 +1,5 @@
 {
-  "name": "package-tester",
+  "name": "@htclorina/package-tester",
   "version": "1.0.0",
   "description": "",
   "main": "home.js",
