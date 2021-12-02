@@ -1,9 +1,9 @@
-name: Node.js Package
+name: Node.js CI
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   publish-gpr:
